@@ -1,3 +1,5 @@
+import pandas as pd
+
 def handle_outliers_iqr(df: pd.DataFrame, cols: list[str]) -> pd.DataFrame:
     for col in cols:
         q1 = df[col].quantile(0.25)

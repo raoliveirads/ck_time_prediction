@@ -1,3 +1,4 @@
+import pandas as pd
 def remove_outliers_iqr(df: pd.DataFrame, columns: list[str]) -> pd.DataFrame:
     df = df.copy()
     
