@@ -15,7 +15,7 @@
 
 ### <center>The Check-in Queue Challenge</center>
 
-The check-in operation at airports is one of the main friction points in the passenger experience. Long lines and unpredictable service times negatively impact customer satisfaction, operational efficiency, and costs for airlines and airport administrators. This project proposes the use of Machine Learning techniques to estimate waiting time in line and service time, based on operational variables collected in near real-time.
+The check-in operation at airports is one of the main friction points in the passenger experience. Long lines and unpredictable service times negatively impact customer satisfaction, operational efficiency, and costs for airlines and airport administrators. This project proposes the use of Machine Learning techniques to estimate waiting time in line and service time, based on operational variables.
 
 
 
